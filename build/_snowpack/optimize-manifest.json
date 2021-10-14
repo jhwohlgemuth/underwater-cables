@@ -1,0 +1,25 @@
+{
+  "imports": {
+    "/index.html": {
+      "entry": [
+        "/dist/main.js"
+      ],
+      "css": [
+        "/css/style.css"
+      ],
+      "js": [
+        "/_snowpack/env.js",
+        "/_snowpack/pkg/common/_commonjsHelpers-668e6127.js",
+        "/_snowpack/pkg/common/index-a7d65e2d.js",
+        "/_snowpack/pkg/prop-types.js",
+        "/_snowpack/pkg/react-dom.js",
+        "/_snowpack/pkg/react.js",
+        "/dist/components/App.js",
+        "/dist/components/Body.js",
+        "/dist/components/Footer.js",
+        "/dist/main.js"
+      ]
+    }
+  },
+  "generated": {}
+}

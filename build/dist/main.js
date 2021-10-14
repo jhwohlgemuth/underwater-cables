@@ -1,0 +1,1 @@
+import*as e from"../_snowpack/env.js";import.meta.env=e;import o from"../_snowpack/pkg/react.js";import{render as t}from"../_snowpack/pkg/react-dom.js";import n from"./components/App.js";const p="This Web App",m=document.getElementById("root");t(o.createElement(n,{name:p}),m);

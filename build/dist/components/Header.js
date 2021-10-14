@@ -1,0 +1,1 @@
+import e,{useState as c,useEffect as a}from"../../_snowpack/pkg/react.js";const l=()=>{const[t,n]=c(0);return a(()=>{const r=setInterval(()=>n(t+1),1e3);return()=>clearInterval(r)}),e.createElement("header",null,e.createElement("p",null,"HMR Check"),e.createElement("p",null,"Count: ",t))};export default l;

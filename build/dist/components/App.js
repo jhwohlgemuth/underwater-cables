@@ -1,0 +1,1 @@
+import e,{StrictMode as r}from"../../_snowpack/pkg/react.js";import p from"../../_snowpack/pkg/prop-types.js";import m from"./Body.js";import n from"./Footer.js";const o=({name:t})=>e.createElement(r,null,e.createElement(m,null),e.createElement(n,{name:t}));o.propTypes={name:p.string};export default o;
